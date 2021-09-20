@@ -35,7 +35,7 @@ const image = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBIWEh
 
 const fullNameString = `My name is ${fullName}`;
 const yearOfBirthString = `I am ${2021-yearOfBirth} years old`;
-const hobbyString = `My hobby includes ${hobby}`;
+const hobbyString = `One of my hobbies is ${hobby}`;
 
 
 
